@@ -1,5 +1,7 @@
 # CodeClauseInternship_ToDoList
-<p align ="center">Welcome to my ToDoList -  A to-do list  provides several benefits, including increased productivity, reduced stress, improved time management, and a sense of accomplishment as tasks are completed. By having a clear plan and visual representation of tasks, individuals can stay focused, avoid procrastination, and maintain a sense of control over their workload.
+<p align ="center">Welcome to my ToDoList -  A to-do list  provides several benefits, including increased productivity, reduced stress, improved time management, and a sense of accomplishment as tasks are completed.
+<br>
+ <strong> <a href="https://www.linkedin.com/posts/sarbani-pal-219454211_webdevelopment-taskcompleted-codeclause-activity-7101323091779158016-wCye?utm_source=share&utm_medium=member_desktop">Live Demo Video</a></strong>
   
 ## Overview
 
