@@ -10,7 +10,7 @@ A to-do list is a list of tasks or activities that an individual needs to comple
 - ![CSS](https://img.shields.io/badge/CSS-Styles-blue?style=flat-square&logo=css3)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-Logic-yellow?style=flat-square&logo=javascript)
 
-#Task List Page 
+## Task List Page 
 
 - ![cc  t1 s1 ](https://github.com/Sarbani3pal/CodeClauseInternship_ToDoList/assets/106859451/f46e1cc7-634e-49f6-bde8-14dd00a4b534)
 ![cc t1 s2](https://github.com/Sarbani3pal/CodeClauseInternship_ToDoList/assets/106859451/38e5980d-746b-4daf-a76e-f6e9309faefb)
